@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "name": "69shu - Kurisu",
-    "author": "Kurisu",
+    "name": "69shu - bachhoalieuloan",
+    "author": "bachhoalieuloan",
     "version": 1,
     "source": "https://www.69shu.biz",
     "regexp": "(www.|m.)?69shu\\.(.*?)/b/.*?\\.html",
