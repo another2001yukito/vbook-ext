@@ -6,7 +6,7 @@ function execute(key, page) {
 
     // gb18030, gbk uri encode
     // '打更人' --> '%B4%F2%B8%FC%C8%CB'
-    // https://www.69shu.com/modules/article/search.php?searchkey=%B4%F2%B8%FC%C8%CB&searchtype=all
+    // https://www.69shu.biz/modules/article/search.php?searchkey=%B4%F2%B8%FC%C8%CB&searchtype=all
     var gbkEncode = function(s) {
         load('gbk.js');
         return GBK.encode(s);
@@ -37,7 +37,7 @@ function execute(key, page) {
         }
 
         // '大奉'
-        // https://www.69shu.com/modules/article/search.php?searchkey=%B4%F3%B7%EE&searchtype=all
+        // https://www.69shu.biz/modules/article/search.php?searchkey=%B4%F3%B7%EE&searchtype=all
         if ($.Q(doc, 'div.booknav2 > h1 > a').text()) { // detail.js
             return Response.success([{
                 name: $.Q(doc, 'div.booknav2 > h1 > a').text(),
