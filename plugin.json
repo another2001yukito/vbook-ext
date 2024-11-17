@@ -8,10 +8,10 @@
       "name": "69shu",
       "author": "bachhoalieuloan",
       "path": "https://raw.githubusercontent.com/bachhoalieuloan/vbook-ext/main/69shu/plugin.zip",
-      "version": 1,
-      "source": "https://www.69shu.biz",
+      "version": 2,
+      "source": "https://www.69shuba.cx",
       "icon": "https://raw.githubusercontent.com/bachhoalieuloan/vbook-ext/main/69shu/icon.png",
-      "description": "Đọc truyện trên trang https://www.69shu.biz"
+      "description": "Đọc truyện trên trang https://www.69shuba.cx"
     }
   ]
 }
