@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "author": "bachhoalieuloan",
-    "description": "tramhoaduano"
+    "author": "another2001yukito",
+    "description": "vbook extension"
   },
   "data": [
     {
       "name": "69shu",
-      "author": "bachhoalieuloan",
-      "path": "https://raw.githubusercontent.com/bachhoalieuloan/vbook-ext/main/69shu/plugin.zip",
+      "author": "another2001yukito",
+      "path": "https://raw.githubusercontent.com/another2001yukito/vbook-ext/main/69shu/plugin.zip",
       "version": 2,
       "source": "https://www.69shuba.cx",
-      "icon": "https://raw.githubusercontent.com/bachhoalieuloan/vbook-ext/main/69shu/icon.png",
+      "icon": "https://raw.githubusercontent.com/another2001yukito/vbook-ext/main/69shu/icon.png",
       "description": "Đọc truyện trên trang https://www.69shuba.cx"
     }
   ]
