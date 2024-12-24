@@ -11,7 +11,18 @@
       "version": 7,
       "source": "https://www.69shuba.cx",
       "icon": "https://raw.githubusercontent.com/another2001yukito/vbook-ext/main/69shu/icon.png",
-      "description": "Đọc truyện trên trang https://www.69shuba.cx"
+      "description": "Đọc truyện trên trang https://69shuba.cx"
+    },
+      {
+      "name": "69yuedu",
+      "author": "another2001yukito",
+      "path": "https://raw.githubusercontent.com/another2001yukito/vbook-ext/main/69yuedu/plugin.zip",
+      "version": 1,
+      "source": "http://www.69yuedu.net",
+      "icon": "https://raw.githubusercontent.com/another2001yukito/vbook-ext/main/69yuedu/icon.png",
+      "description": "Đọc truyện trên trang https://www.69yuedu.net",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
     }
   ]
 }
