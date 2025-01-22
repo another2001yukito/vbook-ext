@@ -16,13 +16,13 @@
       "locale": "zh_CN"
     },
       {
-      "name": "69yuedu",
+      "name": "monkeyd",
       "author": "another2001yukito",
-      "path": "https://raw.githubusercontent.com/another2001yukito/vbook-ext/main/69yuedu/plugin.zip",
+      "path": "https://raw.githubusercontent.com/another2001yukito/vbook-ext/main/monkeyd/plugin.zip",
       "version": 1,
-      "source": "http://www.69yuedu.net",
-      "icon": "https://raw.githubusercontent.com/another2001yukito/vbook-ext/main/69yuedu/icon.png",
-      "description": "Đọc truyện trên trang https://www.69yuedu.net",
+      "source": "http://monkeyd.com.vn",
+      "icon": "https://raw.githubusercontent.com/another2001yukito/vbook-ext/main/monkeyd/icon.png",
+      "description": "Đọc truyện trên trang https://monkeyd.com.vn",
       "type": "novel",
       "locale": "vi_VN"
     }
