@@ -15,7 +15,7 @@
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
-      {
+    {
       "name": "monkeyd",
       "author": "another2001yukito",
       "path": "https://raw.githubusercontent.com/another2001yukito/vbook-ext/main/monkeyd/plugin.zip",
