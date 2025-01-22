@@ -12,6 +12,8 @@
       "source": "https://www.69shuba.cx",
       "icon": "https://raw.githubusercontent.com/another2001yukito/vbook-ext/main/69shu/icon.png",
       "description": "Đọc truyện trên trang https://69shuba.cx"
+      "type": "chinese_novel",
+      "locale": "zh_CN"
     },
       {
       "name": "69yuedu",
@@ -21,8 +23,8 @@
       "source": "http://www.69yuedu.net",
       "icon": "https://raw.githubusercontent.com/another2001yukito/vbook-ext/main/69yuedu/icon.png",
       "description": "Đọc truyện trên trang https://www.69yuedu.net",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
+      "type": "novel",
+      "locale": "vi_VN"
     }
   ]
 }
