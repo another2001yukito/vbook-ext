@@ -22,7 +22,7 @@
         "version": 1,
         "source": "http://monkeyd.com.vn",
         "icon": "https://raw.githubusercontent.com/another2001yukito/vbook-ext/main/monkeyd/icon.png",
-        "description": "Đọc truyện trên trang https://monkeyd.com.vn"
+        "description": "Đọc truyện trên trang https://monkeyd.com.vn",
         "type": "novel",
         "locale": "vi_VN"
         }
