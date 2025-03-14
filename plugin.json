@@ -5,13 +5,13 @@
   },
   "data": [
         {
-        "name": "69Shuba",
+        "name": "69shu",
         "author": "another2001yukito",
         "path": "https://raw.githubusercontent.com/another2001yukito/vbook-ext/main/69shu/plugin.zip",
-        "version": 11,
-        "source": "https://www.69shuba.me",
+        "version": 7,
+        "source": "https://www.69shuba.cx",
         "icon": "https://raw.githubusercontent.com/another2001yukito/vbook-ext/main/69shu/icon.png",
-        "description": "Đọc truyện trên trang 69shuba.me",
+        "description": "Đọc truyện trên trang 69shuba.cx",
         "type": "chinese_novel",
         "locale": "zh_CN"
         },
