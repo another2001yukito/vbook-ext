@@ -16,6 +16,17 @@
         "locale": "zh_CN"
         },
         {
+        "name": "twkan",
+        "author": "another2001yukito",
+        "path": "https://raw.githubusercontent.com/another2001yukito/vbook-ext/main/twkan/plugin.zip",
+        "version": 10,
+        "source": "https://twkan.com",
+        "icon": "https://raw.githubusercontent.com/another2001yukito/vbook-ext/main/twkan/icon.png",
+        "description": "Đọc truyện trên trang twkan.com (台灣小說網)",
+        "type": "chinese_novel",
+        "locale": "zh_TW"
+        },
+        {
         "name": "monkeyd",
         "author": "another2001yukito",
         "path": "https://raw.githubusercontent.com/another2001yukito/vbook-ext/main/monkeyd/plugin.zip",
